@@ -13,8 +13,7 @@ I build and improve web applications with a focus on practical engineering and s
 - Collaborating on projects where reliability and security both matter
 
 ### Let's Connect
-- Email: divesh.thadani.1516@gmail.com
-- Phone: +91 81602 87014
+- Email: divyeshthadani@gmail.com
 
 <!--
 divyesh-thadani/divyesh-thadani is a special repository because its README appears on your GitHub profile.
